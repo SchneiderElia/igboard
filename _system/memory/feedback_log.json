@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1777769047257,
+    "date": "2026-05-03T00:44:07.257Z",
+    "comment": "Errore 1: possiamo allungare il testo  cosi da lasciare piu spazio con il testo sotto\n\nErrore 2: possiamo allungare il testo per avere piu spazio sopra e sotto e non uscire  andare su bordi a schiacciare ",
+    "imageFile": "feedback_1777769047257.png",
+    "design_context": {
+      "content": {
+        "headline": "Proteggi il tuo udito, preserva la tua mente.",
+        "subheadline": "Il declino uditivo non compromette solo i suoni, ma la tua lucidità mentale a lungo termine.",
+        "body": [
+          "Quando l'udito cala, il tuo cervello lavora in modalità 'emergenza' per decifrare i segnali acustici.",
+          "Questo sforzo cognitivo costante sottrae energie preziose a memoria e attenzione.",
+          "Agire tempestivamente non significa solo sentire meglio, ma proteggere la tua riserva cognitiva."
+        ],
+        "cta": "Prenota un controllo gratuito oggi stesso."
+      },
+      "designParams": {
+        "tension": 7,
+        "balance": 3,
+        "archetype": "Caregiver"
+      },
+      "colors": {
+        "bg": "#F4F4F4",
+        "text": "#1A1A1A",
+        "accent": "#2D5A85"
+      },
+      "fontConfig": {
+        "pair": "Modern Serif & Sans-Serif"
+      },
+      "layoutTemplate": "vogue_cover"
+    }
+  },
+  {
+    "id": 1777771672337,
+    "date": "2026-05-03T01:27:52.337Z",
+    "comment": "Errore 1: tagliato aumentare lo spazio  gestire meglio ",
+    "annotations": [
+      {
+        "id": 1777771647349,
+        "x": 10.711871807596028,
+        "y": 30.276816608996537,
+        "width": 70.50236384658787,
+        "height": 25.25951557093426,
+        "text": "tagliato aumentare lo spazio  gestire meglio "
+      }
+    ],
+    "imageFile": "feedback_1777771672337.png",
+    "design_context": {
+      "content": {
+        "headline": "Design di Livello Mondiale: Il Metodo",
+        "subheadline": "Costruire un sistema scalabile oltre l'AI.",
+        "body": [
+          "Ho scaricato la responsabilità estetica dal LLM per garantire precisione.",
+          "Ho costruito un Database di Design System ispirato ai maestri dell'Art Direction.",
+          "La struttura è ora codificata nel file src/constants/design-master-grids.js."
+        ],
+        "cta": null
+      },
+      "designParams": {
+        "tension": 7,
+        "balance": 8,
+        "archetype": "Editorial",
+        "textWarning": false
+      },
+      "colors": {
+        "bg": "#FFFFFF",
+        "text": "#000000",
+        "accent": "#FF3300"
+      },
+      "fontConfig": {
+        "pair": "Editorial"
+      },
+      "layoutTemplate": "editorial_stacked"
+    }
+  }
+]

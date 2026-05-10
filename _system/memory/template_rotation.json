@@ -1,0 +1,306 @@
+{
+  "templateIndex": 5,
+  "fontIndex": 5,
+  "history": [
+    {
+      "template": "swiss_grid_strict",
+      "font": "Neo-Abstract",
+      "textClass": "long",
+      "time": "2026-05-03T03:33:44.053Z"
+    },
+    {
+      "template": "magazine_cover",
+      "font": "Editorial",
+      "textClass": "long",
+      "time": "2026-05-03T03:33:47.453Z"
+    },
+    {
+      "template": "editorial_bold_block",
+      "font": "Brutalist",
+      "textClass": "long",
+      "time": "2026-05-03T03:36:35.231Z"
+    },
+    {
+      "template": "vogue_cover",
+      "font": "Swiss",
+      "textClass": "long",
+      "time": "2026-05-03T03:38:39.732Z"
+    },
+    {
+      "template": "vogue_cover_mirrored",
+      "font": "Minimal",
+      "textClass": "long",
+      "time": "2026-05-03T03:39:04.300Z"
+    },
+    {
+      "template": "koto_minimal",
+      "font": "Neo-Abstract",
+      "textClass": "long",
+      "time": "2026-05-03T03:39:09.188Z"
+    },
+    {
+      "template": "editorial_elegant",
+      "font": "Editorial",
+      "textClass": "medium",
+      "time": "2026-05-03T03:39:35.131Z"
+    },
+    {
+      "template": "editorial_split",
+      "font": "Brutalist",
+      "textClass": "medium",
+      "time": "2026-05-03T03:39:38.167Z"
+    },
+    {
+      "template": "editorial_stacked",
+      "font": "Swiss",
+      "textClass": "medium",
+      "time": "2026-05-03T03:39:40.713Z"
+    },
+    {
+      "template": "editorial_stacked_bottom",
+      "font": "Minimal",
+      "textClass": "medium",
+      "time": "2026-05-03T03:39:44.201Z"
+    },
+    {
+      "template": "editorial_poster",
+      "font": "Neo-Abstract",
+      "textClass": "medium",
+      "time": "2026-05-03T03:40:13.469Z"
+    },
+    {
+      "template": "editorial_asymmetric",
+      "font": "Editorial",
+      "textClass": "medium",
+      "time": "2026-05-03T03:40:17.835Z"
+    },
+    {
+      "template": "editorial_diagonal",
+      "font": "Brutalist",
+      "textClass": "medium",
+      "time": "2026-05-03T03:40:20.626Z"
+    },
+    {
+      "template": "editorial_diagonal_mirrored",
+      "font": "Swiss",
+      "textClass": "medium",
+      "time": "2026-05-03T03:40:41.701Z"
+    },
+    {
+      "template": "carson_chaos",
+      "font": "Minimal",
+      "textClass": "medium",
+      "time": "2026-05-03T03:40:48.927Z"
+    },
+    {
+      "template": "bauhaus_structure",
+      "font": "Neo-Abstract",
+      "textClass": "medium",
+      "time": "2026-05-03T03:40:53.058Z"
+    },
+    {
+      "template": "swiss_grid_strict",
+      "font": "Editorial",
+      "textClass": "medium",
+      "time": "2026-05-03T03:41:00.253Z"
+    },
+    {
+      "template": "museum_poster",
+      "font": "Brutalist",
+      "textClass": "medium",
+      "time": "2026-05-03T03:41:08.796Z"
+    },
+    {
+      "template": "magazine_cover",
+      "font": "Swiss",
+      "textClass": "medium",
+      "time": "2026-05-03T03:41:16.503Z"
+    },
+    {
+      "template": "editorial_framed",
+      "font": "Minimal",
+      "textClass": "medium",
+      "time": "2026-05-03T03:41:32.300Z"
+    },
+    {
+      "template": "editorial_bold_block",
+      "font": "Neo-Abstract",
+      "textClass": "medium",
+      "time": "2026-05-03T03:41:35.643Z"
+    },
+    {
+      "template": "editorial_stripe",
+      "font": "Editorial",
+      "textClass": "medium",
+      "time": "2026-05-03T03:42:19.190Z"
+    },
+    {
+      "template": "editorial_layered",
+      "font": "Brutalist",
+      "textClass": "medium",
+      "time": "2026-05-03T03:42:26.342Z"
+    },
+    {
+      "template": "vogue_cover",
+      "font": "Swiss",
+      "textClass": "medium",
+      "time": "2026-05-03T03:42:42.261Z"
+    },
+    {
+      "template": "vogue_cover_mirrored",
+      "font": "Minimal",
+      "textClass": "medium",
+      "time": "2026-05-03T03:42:57.034Z"
+    },
+    {
+      "template": "koto_minimal",
+      "font": "Neo-Abstract",
+      "textClass": "medium",
+      "time": "2026-05-03T03:43:06.646Z"
+    },
+    {
+      "template": "editorial_elegant",
+      "font": "Editorial",
+      "textClass": "medium",
+      "time": "2026-05-03T03:51:08.368Z"
+    },
+    {
+      "template": "editorial_split",
+      "font": "Brutalist",
+      "textClass": "medium",
+      "time": "2026-05-03T03:51:20.578Z"
+    },
+    {
+      "template": "editorial_stacked",
+      "font": "Swiss",
+      "textClass": "medium",
+      "time": "2026-05-03T03:51:33.650Z"
+    },
+    {
+      "template": "editorial_stacked_bottom",
+      "font": "Minimal",
+      "textClass": "medium",
+      "time": "2026-05-03T03:51:37.609Z"
+    },
+    {
+      "template": "editorial_poster",
+      "font": "Neo-Abstract",
+      "textClass": "medium",
+      "time": "2026-05-03T03:51:43.392Z"
+    },
+    {
+      "template": "editorial_asymmetric",
+      "font": "Editorial",
+      "textClass": "medium",
+      "time": "2026-05-03T03:51:46.383Z"
+    },
+    {
+      "template": "editorial_diagonal",
+      "font": "Brutalist",
+      "textClass": "medium",
+      "time": "2026-05-03T03:51:50.167Z"
+    },
+    {
+      "template": "editorial_diagonal_mirrored",
+      "font": "Swiss",
+      "textClass": "medium",
+      "time": "2026-05-03T03:51:52.864Z"
+    },
+    {
+      "template": "carson_chaos",
+      "font": "Minimal",
+      "textClass": "medium",
+      "time": "2026-05-03T03:51:56.041Z"
+    },
+    {
+      "template": "bauhaus_structure",
+      "font": "Neo-Abstract",
+      "textClass": "medium",
+      "time": "2026-05-03T04:04:47.452Z"
+    },
+    {
+      "template": "swiss_grid_strict",
+      "font": "Editorial",
+      "textClass": "medium",
+      "time": "2026-05-03T04:04:52.637Z"
+    },
+    {
+      "template": "museum_poster",
+      "font": "Brutalist",
+      "textClass": "medium",
+      "time": "2026-05-03T04:04:58.133Z"
+    },
+    {
+      "template": "magazine_cover",
+      "font": "Swiss",
+      "textClass": "medium",
+      "time": "2026-05-03T04:05:21.664Z"
+    },
+    {
+      "template": "editorial_framed",
+      "font": "Minimal",
+      "textClass": "medium",
+      "time": "2026-05-03T04:07:54.577Z"
+    },
+    {
+      "template": "editorial_bold_block",
+      "font": "Neo-Abstract",
+      "textClass": "medium",
+      "time": "2026-05-03T04:08:11.844Z"
+    },
+    {
+      "template": "editorial_stripe",
+      "font": "Editorial",
+      "textClass": "medium",
+      "time": "2026-05-03T04:08:17.037Z"
+    },
+    {
+      "template": "editorial_layered",
+      "font": "Brutalist",
+      "textClass": "medium",
+      "time": "2026-05-03T04:08:41.046Z"
+    },
+    {
+      "template": "creative_asymmetric_split",
+      "font": "Swiss",
+      "textClass": "medium",
+      "time": "2026-05-03T04:08:54.295Z"
+    },
+    {
+      "template": "creative_brutalist_overlap",
+      "font": "Minimal",
+      "textClass": "medium",
+      "time": "2026-05-03T04:09:13.166Z"
+    },
+    {
+      "template": "creative_floating_card",
+      "font": "Neo-Abstract",
+      "textClass": "medium",
+      "time": "2026-05-03T04:13:18.638Z"
+    },
+    {
+      "template": "creative_diagonal_news",
+      "font": "Editorial",
+      "textClass": "medium",
+      "time": "2026-05-03T04:14:14.004Z"
+    },
+    {
+      "template": "vogue_cover",
+      "font": "Brutalist",
+      "textClass": "medium",
+      "time": "2026-05-03T04:14:54.866Z"
+    },
+    {
+      "template": "vogue_cover_mirrored",
+      "font": "Swiss",
+      "textClass": "medium",
+      "time": "2026-05-03T04:16:15.707Z"
+    },
+    {
+      "template": "koto_minimal",
+      "font": "Minimal",
+      "textClass": "medium",
+      "time": "2026-05-03T04:16:50.054Z"
+    }
+  ]
+}
